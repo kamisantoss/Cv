@@ -1,0 +1,2 @@
+alert('Te CV zostało zrobione tylko w celach ćwiczeniowych i nie zostało ono zrobiono na serio')
+alert('Kod i reszte znajdziecie na moim koncie github.do którego macie dostęp pod profilowym. Na rozdzielczość nie patrzcie haha')
